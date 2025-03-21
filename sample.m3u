@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Sample Videos", Big Buck Bunny
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:-1 group-title="Sample Videos", For Bigger Blazes
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
